@@ -1,6 +1,6 @@
-# Virtual Mouse Using OpenCv
+# 3D Model Generator Using Python
 
-This is a Prompt to 3D Model Generator build using python.
+This is a Prompt to 3D Model Generator Project build using python.
 
 # how to run :
 
